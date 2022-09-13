@@ -1,1 +1,6 @@
-> HayJoshua#6706
+void AMyPlayerController::Reset()
+{
+	Super::Reset();
+
+	PlayerState->bOnlySpectator = true;
+}
