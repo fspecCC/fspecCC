@@ -1,6 +1,3 @@
-void AMyPlayerController::Reset()
-{
-	Super::Reset();
+$outh $ide $uicide 
+/x.$pah#8478/
 
-	PlayerState->bOnlySpectator = true;
-}
